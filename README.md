@@ -26,6 +26,7 @@
   </ul>
   <div class="technologies">
     <h2> Technologies that I know </h2>
+    ![alt-text-1](icons8-css3-50.png "title-1") ![alt-text-2](icons8-css3-50.png "title-2")
     <ul class="technologies-list">
       <li>
         <img src="https://github.com/Worell97/Worell97/blob/master/assets/icons8-css3-50.png"> 
