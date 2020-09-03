@@ -1,0 +1,20 @@
+.technologies {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.technologies h2{
+	text-justify: auto;
+}
+
+.technologies-list{
+	display: flex;
+	list-style-type: none;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.technologies-list li{
+	margin: 0 1.5rem;
+	align-content: space-between;
+}
