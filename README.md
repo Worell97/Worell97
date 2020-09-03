@@ -9,4 +9,11 @@
   - 🌱 I’m currently learning web development(React, node.js, scss, typescript)
   - 👯 I’m really want to collaborate on web projects because on my studies with web 
     development I'm fell very excited when i saw the things that I can do on web.
+
 <h4>Tecnologies that i know</h4>
+
+<ul>
+  <li>
+    <img src="assets/icons8-css3-50.png"> 
+  </li>
+</ul>
