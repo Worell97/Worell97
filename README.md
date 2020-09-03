@@ -28,7 +28,7 @@
     <h2> Technologies that I know </h2>
     <ul class="technologies-list">
       <li>
-        <img src="https://github.com/Worell97/Worell97/tree/master/assets/icons8-css3-50.png"> 
+        <img src="https://github.com/Worell97/Worell97/blob/master/assets/icons8-css3-50.png"> 
         <h4 class="Tec-Description"> CSS3 </h4>
       </li>
       <li>
