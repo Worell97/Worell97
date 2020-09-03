@@ -1,5 +1,5 @@
 <head>
-  <link href="styles.css" rel="stylesheet"/>
+  <link href="https://github.com/Worell97/Worell97/blob/master/styles.css" rel="stylesheet"/>
 </head>
 <body>
   <h1>Hi there My name is Oscar Worell Filho 👋</h1>
@@ -28,31 +28,31 @@
     <h2> Technologies that I know </h2>
     <ul class="technologies-list">
       <li>
-        <img src="https://github.com/Worell97/Worell97/tree/master/assets/icons8-css3-50.png"> 
+        <img src="https://github.com/Worell97/Worell97/blob/master/assets/icons8-css3-50.png"> 
         <h4 class="Tec-Description"> CSS3 </h4>
       </li>
       <li>
-        <img src="https://github.com/Worell97/Worell97/tree/master/assets/icons8-html-5-50.png"> 
+        <img src="https://github.com/Worell97/Worell97/blob/master/assets/icons8-html-5-50.png"> 
         <h4 class="Tec-Description"> HTML5 </h4>
       </li>
       <li>
-        <img src="https://github.com/Worell97/Worell97/tree/master/assets/icons8-dart-50.png"> 
+        <img src="https://github.com/Worell97/Worell97/blob/master/assets/icons8-dart-50.png"> 
         <h4 class="Tec-Description"> dart </h4>
       </li>
       <li>
-        <img src="https://github.com/Worell97/Worell97/tree/master/assets/icons8-delphi-ide-50.png"> 
+        <img src="https://github.com/Worell97/Worell97/blob/master/assets/icons8-delphi-ide-50.png"> 
         <h4 class="Tec-Description"> delphi </h4>
       </li>
       <li>
-        <img src="https://github.com/Worell97/Worell97/tree/master/assets/icons8-flutter-50.png"> 
+        <img src="https://github.com/Worell97/Worell97/blob/master/assets/icons8-flutter-50.png"> 
         <h4 class="Tec-Description"> flutter </h4>
       </li>
       <li>
-        <img src="https://github.com/Worell97/Worell97/tree/master/assets/icons8-javascript-50.png"> 
+        <img src="https://github.com/Worell97/Worell97/blob/master/assets/icons8-javascript-50.png"> 
         <h4 class="Tec-Description"> JS </h4>
       </li>
       <li>
-        <img src="https://github.com/Worell97/Worell97/tree/master/assets/icons8-react-50.png"> 
+        <img src="https://github.com/Worell97/Worell97/blob/master/assets/icons8-react-50.png"> 
         <h4 class="Tec-Description"> React </h4>
       </li>
     </ul>
