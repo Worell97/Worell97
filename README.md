@@ -8,7 +8,7 @@
 # Hi there My name is Oscar Worell Filho 👋
 
 > - I’m currently working with Delphi 10.1 on a project named SistemaEco
-> - I’m currently learning web development(React, node.js, scss, typescript) 
+> - I’m currently learning web development(React, node.js, scss, typescript) and flutter for mobile at <a href="https://app.balta.io">balta.io</a> 
 > - I really want to collaborate on web projects because on my studies with web 
 >   development I'm fell very excited when I saw the things that I can do on web.
 > - Studing English for 1-2 years </text>
