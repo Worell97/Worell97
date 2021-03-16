@@ -7,7 +7,7 @@
 [react]: https://github.com/Worell97/Worell97/blob/master/assets/icons8-react-50.png "REACT" 
 # Hi there My name is Oscar Worell Filho 👋
 
-> - I’m currently working with Delphi 10.1 on a project named SistemaEco
+> - I’m currently working with Delphi 10 on a project named SysmoVS
 > - I’m currently learning web development(React, node.js, scss, typescript) and flutter for mobile at <a href="https://app.balta.io">balta.io</a> 
 > - I really want to collaborate on web projects because on my studies with web 
 >   development I'm fell very excited when I saw the things that I can do on web.
