@@ -8,9 +8,8 @@
 # Hi there My name is Oscar Worell Filho 👋
 
 > - I’m currently working with React.js 
-> - I’m aways improving myself looking for a fullstak proeficience(React, node.js, scss, typescript) and flutter for mobile at <a href="https://app.balta.io">balta.io</a> 
-> - I really want to collaborate on web projects because on my studies with web 
->   development I'm fell very excited when I saw the things that I can do on web.
+> - I’m aways improving myself looking for a fullstak proeficience with React, node.js, scss, typescript and flutter for mobile at [balta.io](https://app.balta.io)
+> - I really like to collaborate on web projects because on my experiences with it I'm fell very excited when I saw the things that I can do on web.
 > - Studing English for +2 years </text>
     
 ## Technologies that I know </h2>
