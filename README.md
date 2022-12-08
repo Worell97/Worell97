@@ -7,7 +7,7 @@
 [react]: https://github.com/Worell97/Worell97/blob/master/assets/icons8-react-50.png "REACT" 
 # Hi there My name is Oscar Worell Filho 👋
 
-> - I’m currently working with React.js 
+> - I’m currently working with React.js, and studying Ruby on Rails 
 > - I’m aways improving myself looking for a fullstak proeficience with React, node.js, scss, typescript and flutter for mobile at [balta.io](https://app.balta.io)
 > - I really like to collaborate on web projects because on my experiences with it I'm fell very excited when I saw the things that I can do on web.
 > - Studing English for +2 years </text>
