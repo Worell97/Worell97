@@ -12,12 +12,12 @@
 > - I really like to collaborate on web projects because on my experiences with it I'm fell very excited when I saw the things that I can do on web.
 > - Studing English for +2 years </text>
     
-<a href="https://github-readme-stats.vercel.app/api?username=Worell97&show_icons=true&theme=dark">
+<!-- <a href="https://github-readme-stats.vercel.app/api?username=Worell97&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Worell97&show_icons=true&theme=dark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Worell97&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Worell97&layout=compact&theme=dark" />
-</a>
+</a> -->
 
 ## Technologies that I know </h2>
 ![Alt Css3][css3] ![Alt Dart][dart] ![Alt Delphi][delphi] ![Alt Flutter][flutter] ![Alt Html 5][html5] ![Alt JavaScript][js] ![Alt React][react]
