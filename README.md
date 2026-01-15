@@ -10,7 +10,7 @@
 > - I’m currently working with Delphi, C# and React.js, also studying Ruby on Rails whenever I can.
 > - I’m aways improving myself looking for a fullstak proeficience with React, node.js, scss, typescript and flutter for mobile at [balta.io](https://app.balta.io)
 > - I really like to collaborate on web projects because on my experiences with it I'm fell very excited when I saw the things that I can do on web.
-> - Studing English for +3 years </text>
+> - Studing English for +4 years </text>
     
 <a href="https://github-readme-stats.vercel.app/api?username=Worell97&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Worell97&show_icons=true&theme=dark" />
